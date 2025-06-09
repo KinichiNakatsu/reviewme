@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reviewme/static/js/main.3c99bebd.js",
+    "index.html": "/reviewme/index.html",
+    "main.3c99bebd.js.map": "/reviewme/static/js/main.3c99bebd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c99bebd.js"
+  ]
+}
