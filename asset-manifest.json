@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reviewme/static/js/main.5a102b2f.js",
+    "main.js": "/reviewme/static/js/main.f7d39c5d.js",
     "index.html": "/reviewme/index.html",
-    "main.5a102b2f.js.map": "/reviewme/static/js/main.5a102b2f.js.map"
+    "main.f7d39c5d.js.map": "/reviewme/static/js/main.f7d39c5d.js.map"
   },
   "entrypoints": [
-    "static/js/main.5a102b2f.js"
+    "static/js/main.f7d39c5d.js"
   ]
 }
